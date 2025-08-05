@@ -53,7 +53,7 @@
     "debug": "^4.4.1",
     "del": "^8.0.0",
     "file-type": "^21.0.0",
-    "marko": "^4.36.3",
+    "marko": "^4.34.14",
     "get-port": "^7.1.0",
     "gradient-string": "^3.0.0",
     "http-proxy": "^1.18.1",
